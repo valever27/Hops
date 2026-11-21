@@ -1,0 +1,13 @@
+{
+  "name": "hops",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "backend",
+    "frontend"
+  ],
+  "scripts": {
+    "lint": "echo \"Add linting later\"",
+    "test": "echo \"Add tests later\""
+  }
+}
